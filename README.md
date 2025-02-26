@@ -1,7 +1,7 @@
 # **Anemia Detection Using Nail and Eye Image Samples**  
 
 ## **Overview**  
-This project utilizes **Convolutional Neural Networks (CNNs)** to detect anemia using images of nails and eyes. By analyzing visual features from these images, the trained deep learning model can classify whether a person has anemia or not.
+This project utilizes **Convolutional Neural Networks (CNNs)** to detect anemia using images of nails and eyes. By analyzing visual features from these images, the trained deep learning model can classify whether a person has anemia or not. 
 ---
 
 ## **Key Features**  
