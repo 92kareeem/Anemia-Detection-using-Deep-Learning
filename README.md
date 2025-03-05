@@ -10,7 +10,7 @@ This project utilizes **Convolutional Neural Networks (CNNs)** to detect anemia 
 ✅ **Automated Preprocessing** – Normalizes images and extracts relevant features.  
 ✅ **Fast and Scalable** – Can be deployed as an API for real-time analysis.  
 ✅ **MERN Stack Integration** – Designed to work with a full-stack web application.  
-
+ 
 ---
 
 ## **Tech Stack**  
