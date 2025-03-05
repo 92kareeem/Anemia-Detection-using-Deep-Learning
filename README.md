@@ -5,7 +5,7 @@ This project utilizes **Convolutional Neural Networks (CNNs)** to detect anemia 
 --- 
 
 ## **Key Features**   
-✅ **Deep Learning-Based Anemia Detection** – Uses CNNs for high-accuracy predictions.   
+✅ **Deep Learning-Based Anemia Detection** – Uses CNNs for high-accuracy predictions.    
 ✅ **Dual Input Sources** – Supports both **nail** and **eye** images for improved reliability.  
 ✅ **Automated Preprocessing** – Normalizes images and extracts relevant features.  
 ✅ **Fast and Scalable** – Can be deployed as an API for real-time analysis.  
