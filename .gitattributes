@@ -2,3 +2,7 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.npz filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras filter=lfs diff=lfs merge=lfs -text
+Backend/Nail_Anemia_Resnet50/nail_model_ResNet.keras filter=lfs diff=lfs merge=lfs -text
+Backend/Eye_Anemia_Resnet50/Eye_Dataset/** filter=lfs diff=lfs merge=lfs -text
+Backend/Nail_Anemia_Resnet50/Fingernails_Dataset/** filter=lfs diff=lfs merge=lfs -text
